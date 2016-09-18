@@ -1,0 +1,10 @@
+{
+  "name": "sar-database",
+  "private": true,
+  "dependencies": {
+    "angular-material": "^1.1.1",
+    "font-awesome": "^4.6.3",
+    "angular-ui-router": "^0.3.1",
+    "oidc-client": "^1.1.0"
+  }
+}

@@ -13,7 +13,7 @@ run.log*
 log4net.config
 
 /publish/
-**/wwwroot/lib/
+**/assets/lib/
 *.csproj.user
 
 PublishProfiles/
